@@ -163,6 +163,11 @@ pre > code {
   color: var(--global-code-text-color);
 }
 
+div.highlighter-rouge pre > code,
+figure.highlight pre > code {
+  color: #f8f8f2;
+}
+
 /* horizontal rule */
 
 hr {
