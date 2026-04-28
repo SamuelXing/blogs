@@ -7,7 +7,7 @@ tags:
   - code generation
 ---
 
-
+MotherDuck challenges the prevailing scale-out orthodoxy in cloud analytics by arguing that most analytical workloads fit on a single beefy node. It introduces a hybrid architecture where queries can execute partially on the client (laptop) and partially in the cloud (a "duckling" container), with seamless data exchange — making it one of the first serious attempts to blur the client/cloud boundary in OLAP.
 
 Link: [motherduck.pdf](https://www.cidrdb.org/cidr2024/papers/p46-atwal.pdf)
 
